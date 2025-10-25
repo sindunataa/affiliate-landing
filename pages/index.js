@@ -35,7 +35,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Rekomendasi Barang - Deals & Promo Terbaik</title>
+        <title>Rekomendasi Barang - Xinn.me</title>
         <meta
           name="description"
           content="Kumpulan link affiliate pilihan dengan penawaran terbaik"
@@ -53,7 +53,7 @@ export default function Home() {
               </div>
             </div>
             <h1 className="text-5xl md:text-6xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent mb-4">
-              Rekomendasi by me!
+              Rekomendasi by Xinn.me!
             </h1>
             <p className="text-lg text-slate-600 max-w-2xl mx-auto">
               Temukan penawaran terbaik dan dapatkan keuntungan dari setiap pembelian
@@ -149,7 +149,7 @@ export default function Home() {
         <footer className="py-12 px-4 border-t border-slate-200 bg-white/50">
           <div className="max-w-5xl mx-auto text-center">
             <p className="text-slate-600 mb-2">
-              © 2024 Rekomendasi by me. Semua hak dilindungi.
+              © 2024 Rekomendasi Xinn.me. Semua hak dilindungi.
             </p>
             <p className="text-sm text-slate-400">
               Dengan menggunakan link ini, Anda membantu kami berkembang 💜
